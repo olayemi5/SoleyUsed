@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "A market placed to sell goods you don't want again and have been used fairly",
+    "githubUrl": "https://github.com/olayemi5/SoleyUsed"
   }
 }
